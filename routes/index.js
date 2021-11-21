@@ -5,9 +5,11 @@ var router = express.Router();
 router.get('/', function(req, res, next) {
   res.render('index', { Home: 'Home', 
   Projects: 'Projects',
-  AboutMe: 'About Me',
+  AboutMe: 'AboutMe',
   LOGO: 'Dilpreet Singh |',
   Contact: 'Contact',
+  IMAGE: 'K:\ePortfolio\assests\image.jpg',
+  ALT: "dil's image"
  
 });
 });
