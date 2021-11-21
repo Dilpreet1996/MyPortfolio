@@ -1,0 +1,15 @@
+
+
+a {
+  color: #00B7FF;
+}
+#my1{
+  
+  color:blue;
+} 
+.main{
+  height: 100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
