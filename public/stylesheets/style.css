@@ -1,5 +1,7 @@
 
-
+body{
+  background-image: url("https://cdn.wallpapersafari.com/97/73/lrF7O8.png");
+}
 a {
   color: #00B7FF;
 }
@@ -14,7 +16,7 @@ a {
   align-items: center;
 }
 #detail{
-  color:#6f6f6f;
+  color:#eff7ef;
 }
 #my2{
  
