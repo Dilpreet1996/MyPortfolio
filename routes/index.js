@@ -11,7 +11,8 @@ router.get('/', function(req, res, next) {
   IMAGE: 'https://raw.githubusercontent.com/Dilpreet1996/MyPortfolio/master/assests/image.jpg',
   ALT: "dil's image",
   name: 'Dilpreet Singh',
-  detail: "I'm a professional illustrator from Waterloo"
+  detail: "I'm a professional illustrator from Waterloo",
+  about:'About Me'
  
 });
 });
