@@ -9,7 +9,9 @@ router.get('/', function(req, res, next) {
   LOGO: 'Dilpreet Singh |',
   Contact: 'Contact',
   IMAGE: 'https://raw.githubusercontent.com/Dilpreet1996/MyPortfolio/master/assests/image.jpg',
-  ALT: "dil's image"
+  ALT: "dil's image",
+  name: 'Dilpreet Singh',
+  detail: "I'm a professional illustrator from Waterloo"
  
 });
 });

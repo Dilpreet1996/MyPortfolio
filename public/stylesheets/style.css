@@ -7,9 +7,20 @@ a {
   
   color:rgb(12, 12, 12);
 } 
-.main{
+#hero{
   height: 100vh;
   display:flex;
   justify-content: center;
   align-items: center;
+}
+#detail{
+  color:#6f6f6f;
+}
+#my2{
+ 
+ 
+  display:flex;
+  justify-content: center;
+  align-items: center;
+
 }
