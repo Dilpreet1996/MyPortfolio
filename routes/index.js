@@ -5,7 +5,7 @@ var router = express.Router();
 router.get('/', function(req, res, next) {
   res.render('index', { Home: 'Home', 
   Projects: 'Projects',
-  AboutMe: 'AboutMe',
+  AboutMe: 'About Me',
   LOGO: 'Dilpreet Singh |',
   Contact: 'Contact',
  
