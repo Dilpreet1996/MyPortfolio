@@ -8,7 +8,7 @@ router.get('/', function(req, res, next) {
   AboutMe: 'AboutMe',
   LOGO: 'Dilpreet Singh |',
   Contact: 'Contact',
-  IMAGE: 'K:\ePortfolio\assests\image.jpg',
+  IMAGE: 'https://raw.githubusercontent.com/Dilpreet1996/MyPortfolio/master/assests/image.jpg',
   ALT: "dil's image"
  
 });
