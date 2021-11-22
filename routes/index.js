@@ -36,7 +36,7 @@ router.get('/about', (req,res,next) =>{
     ALT: "dil's image",
     carrerObjective:'To enhance my knowledge and skills by working with your company and to use that skills for the growth and development of your company.',
     about:'About Me',
-    education: 'I have Diploma and B.Tech from Punjab Technical Board and BCET University India, Moreover currently I am pursuing Post-Graduate Diploma in Mobile Solutions Development from Conestoga College at Waterloo, Canada',
+    education: 'I have Diploma and B.Tech from Punjab Technical Board and BCET University India, Moreover currently I am pursuinggit Post-Graduate Diploma in Mobile Solutions Development from Conestoga College at Waterloo, Canada',
     strength:'My Hobbies are Running, Traveling and Coding while my Interest is to learn new things all the times and in term of my strength which is  Self Motivated, Hardworker,  Honest.',
     birthday: '27th of September 1996',
     website: ' https://eportfoliomain.herokuapp.com/',
@@ -67,6 +67,23 @@ router.get('/contacts',(req,res,next) => {
     number:'+16476171448',
     sub:'Submit!',
     contactGet:'Fell free to contact me or I will get back to you ASAP, please fill the contact form'
+  });
+
+});
+
+router.get('/myProjects',(req,res,next) => {
+  res.render('myProjects',
+  { 
+    Home: 'Home', 
+    Projects: 'Projects',
+    AboutMe: 'AboutMe',
+    LOGO: 'Dilpreet Singh |',
+    Contact: 'Contact',
+    IMAGE: 'https://raw.githubusercontent.com/Dilpreet1996/MyPortfolio/master/assests/image.jpg',
+    ALT: "dil's image",
+  
+    about:'About Me',
+  
   });
 
 });

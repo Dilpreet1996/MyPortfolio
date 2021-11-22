@@ -84,14 +84,14 @@ a {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #7c5e5e;
+  color: #222222;
 }
 .skills .progress .skill .val {
   float: right;
   font-style: normal;
 }
 .skills .progress-bar-wrap {
-  background: #f3f3f3;
+  background: #dfd7d7;
 }
 .skills .progress-bar {
   width: 1px;
@@ -99,7 +99,3 @@ a {
   transition: 0.9s;
   background-color: #34b7a7;
 }
-
-
-
-
