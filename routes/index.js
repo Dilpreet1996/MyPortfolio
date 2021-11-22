@@ -32,7 +32,7 @@ router.get('/about', (req,res,next) =>{
     AboutMe: 'AboutMe',
     LOGO: 'Dilpreet Singh |',
     Contact: 'Contact',
-    IMAGE: 'g/images/image.jpg',
+    IMAGE: '/images/image.jpg',
     ALT: "dil's image",
     carrerObjective:'To enhance my knowledge and skills by working with your company and to use that skills for the growth and development of your company.',
     about:'About Me',
