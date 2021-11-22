@@ -38,6 +38,15 @@ router.get('/about', (req,res,next) =>{
     about:'About Me',
     education: 'I have Diploma and B.Tech from Punjab Technical Board and BCET University India, Moreover currently i am doing Post-Graduate Diploma in Mobile Solutions Development from Conestoga College at Waterloo, Canada',
     strength:'My Hobbies are Running, Traveling and Coding while my Interest is to learn new things all the times and in term of my strength which is  Self Motivated, Hardworker,  Honest.',
+    birthday: '27th of September 1996',
+    website: ' https://eportfoliomain.herokuapp.com/',
+    number: '+16476171448',
+    city: 'Waterloo, Canada',
+    age:'25',
+    degree:'Bachelor of Engineering and Technology in C.S.E',
+    status:'Available',
+    mail:'dilpreetsingh.ds277@gmail.com'
+
 
    
 });
