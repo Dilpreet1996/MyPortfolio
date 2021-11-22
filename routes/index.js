@@ -67,7 +67,8 @@ router.get('/contacts',(req,res,next) => {
     Email:'dilpreetsingh.ds277@gmail.com',
     number:'+16476171448',
     sub:'Submit!',
-    contactGet:'Fell free to contact me or I will get back to you ASAP, please fill the contact form'
+    contactGet:'Fell free to contact me or I will get back to you ASAP, please fill the contact form',
+    cS:'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d79249.50597048597!2d-80.61675973731364!3d43.48232168476552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882bf1565ffe672b%3A0x5037b28c7231d90!2sWaterloo%2C%20ON%2C%20Canada!5e1!3m2!1sen!2sin!4v1637583443028!5m2!1sen!2sin'
   });
 
 });
