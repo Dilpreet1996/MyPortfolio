@@ -1,7 +1,7 @@
 
 body{
  
-  background-image: url("https://github.com/Dilpreet1996/MyPortfolio/blob/master/assests/1353541.jpg?raw=true");
+  background-image: url("/images/1353541.jpg");
   background-image: height 32px;
   background-image: width auto;
   
@@ -105,6 +105,15 @@ a {
   display:flex;
   justify-content: center;
   align-items: center;
+}
+#icon{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+i{
+  margin: 10px;
 }
 #mg{
   padding:30px;

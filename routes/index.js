@@ -10,7 +10,7 @@ router.get('/', function(req, res, next) {
   AboutMe: 'AboutMe',
   LOGO: 'Dilpreet Singh |',
   Contact: 'Contact',
-  IMAGE: 'https://raw.githubusercontent.com/Dilpreet1996/MyPortfolio/master/assests/image.jpg',
+   IMAGE:'/images/image.jpg',
   ALT: "dil's image",
   name: 'Dilpreet Singh',
   detail: "I'm a professional Programmer and UI/UX Designer from Waterloo",
