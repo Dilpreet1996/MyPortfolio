@@ -38,7 +38,7 @@ router.get('/about', (req,res,next) =>{
     about:'About Me',
     education: 'I have Diploma and B.Tech from Punjab Technical Board and BCET University India, Moreover currently i am doing Post-Graduate Diploma in Mobile Solutions Development from Conestoga College at Waterloo, Canada',
     strength:'My Hobbies are Running, Traveling and Coding while my Interest is to learn new things all the times and in term of my strength which is  Self Motivated, Hardworker,  Honest.',
-    
+
    
 });
 });
@@ -56,7 +56,8 @@ router.get('/contacts',(req,res,next) => {
     about:'About Me',
     Email:'dilpreetsingh.ds277@gmail.com',
     number:'+16476171448',
-    sub:'Submit!'
+    sub:'Submit!',
+    contactGet:'Fell free to contact me or I will get back to you ASAP, please fill the contact form'
   });
 
 });
