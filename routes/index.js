@@ -45,7 +45,8 @@ router.get('/about', (req,res,next) =>{
     age:'25',
     degree:'Bachelor of Engineering and Technology in C.S.E',
     status:'Available',
-    mail:'dilpreetsingh.ds277@gmail.com'
+    mail:'dilpreetsingh.ds277@gmail.com',
+    paraskill:'My technical skills are JavaScript,Java, Android(JAVA and XML), Bootstrap, Handlebars, c#, IOS(SWIFT) and object Oriented Programming'
 
 
    
