@@ -1,7 +1,7 @@
 
 body{
  
-  background-image: url("https://wallpaperaccess.com/full/1353541.jpg");
+  background-image: url("https://github.com/Dilpreet1996/MyPortfolio/blob/master/assests/1353541.jpg?raw=true");
   background-image: height 32px;
   background-image: width auto;
   
@@ -20,7 +20,7 @@ a {
   align-items: center;
 }
 #detail{
-  color:#eff7ef;
+  color:#771ce0;
 }
 #my2{
  
@@ -29,6 +29,11 @@ a {
   justify-content: center;
   align-items: center;
 
+}
+#ctn{
+  display:flex;
+  justify-content: center;
+  align-items: center
 }
 
 #about1{
@@ -39,17 +44,18 @@ a {
 #about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #f8f5f5;
+  color: #813636;
 }
 #about .content ul {
   list-style: none;
   padding: 0;
-  color: #f8f5f5;
+  color: #813636;
 }
 #about .content ul li {
   padding-bottom: 10px;
-  color: #f8f5f5;
+  color: #813636;
 }
+
 #about .content ul i {
   font-size: 20px;
   padding-right: 2px;
@@ -57,9 +63,13 @@ a {
 }
 #about .content p:last-child {
   margin-bottom: 0;
-  color: #f8f5f5;
+  color: #0f0f0f;
 }
-
+#skl{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
 
 .skills .progress {
   height: 60px;
@@ -74,7 +84,7 @@ a {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #222222;
+  color: #7c5e5e;
 }
 .skills .progress .skill .val {
   float: right;
@@ -89,3 +99,7 @@ a {
   transition: 0.9s;
   background-color: #34b7a7;
 }
+
+
+
+
