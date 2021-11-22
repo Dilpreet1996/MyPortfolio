@@ -13,7 +13,7 @@ router.get('/', function(req, res, next) {
   IMAGE: 'https://raw.githubusercontent.com/Dilpreet1996/MyPortfolio/master/assests/image.jpg',
   ALT: "dil's image",
   name: 'Dilpreet Singh',
-  detail: "I'm a professional illustrator from Waterloo",
+  detail: "I'm a professional Programmer and UI/UX Designer from Waterloo",
   about:'About Me',
   
  
@@ -36,7 +36,7 @@ router.get('/about', (req,res,next) =>{
     ALT: "dil's image",
     carrerObjective:'To enhance my knowledge and skills by working with your company and to use that skills for the growth and development of your company.',
     about:'About Me',
-    education: 'I have Diploma and B.Tech from Punjab Technical Board and BCET University India, Moreover currently i am doing Post-Graduate Diploma in Mobile Solutions Development from Conestoga College at Waterloo, Canada',
+    education: 'I have Diploma and B.Tech from Punjab Technical Board and BCET University India, Moreover currently I am pursuing Post-Graduate Diploma in Mobile Solutions Development from Conestoga College at Waterloo, Canada',
     strength:'My Hobbies are Running, Traveling and Coding while my Interest is to learn new things all the times and in term of my strength which is  Self Motivated, Hardworker,  Honest.',
     birthday: '27th of September 1996',
     website: ' https://eportfoliomain.herokuapp.com/',
