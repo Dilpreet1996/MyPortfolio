@@ -99,3 +99,14 @@ a {
   transition: 0.9s;
   background-color: #34b7a7;
 }
+
+
+#project{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+#mg{
+  padding:30px;
+ 
+}

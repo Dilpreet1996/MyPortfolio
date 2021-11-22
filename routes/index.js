@@ -81,8 +81,18 @@ router.get('/myProjects',(req,res,next) => {
     Contact: 'Contact',
     IMAGE: 'https://raw.githubusercontent.com/Dilpreet1996/MyPortfolio/master/assests/image.jpg',
     ALT: "dil's image",
-  
+    project:"My Projects",
     about:'About Me',
+    ui:'In this Project I have Created a Design for a Music WebSite',
+    pl:"Project Link",
+    ct:"UI/UX Projets",
+    st:"Adobe XD",
+    ui1:"It's an Android App which I have build by using a Java Programming Language",
+    st1:"Andiod Project",
+    ct1:"Andiod Project",
+    ui2:"It's an GUI Java Based Project for Management releated purpose",
+    ct2:"Java Project",
+    st2:"Java Based Project"
   
   });
 
